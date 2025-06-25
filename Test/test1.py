@@ -109,6 +109,8 @@ word_list = ['This', 'book', 'is', 'designed', 'specifically',
 # starts: 1
 
 # 가장 많이 나온 단어: 'programming' (총 13회)
+# 전체 단어 중 가장 많이 나온 단어가 차지하는 비중
+# 단어 개수 중 가장 많이 나온 단어가 차지하는 비중
 
 
 
