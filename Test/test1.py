@@ -54,64 +54,29 @@ word_list = ['This', 'book', 'is', 'designed', 'specifically',
 
 
 
-# 다음과 같은 출력 결과가 나오도록 코딩하세요.
+# 다음 기능을 수행하는 함수를 작성합니다. 제출할 때는 
+
+# 출력 예시 : 다음과 같은 형식으로 출력되도록 합니다. 단 출력 순서는 알파벳 순서로 출력합니다.
+             단어와 빈도를 모두 출력한 이후에는 가장 많이 나온 단어부터 고유 단어 수까지 계산하여 출력합니다.
+
 # 어별 빈도수:
-# programming: 13
-# the: 11
-# book: 8
-# to: 8
-# and: 7
-# language: 7
-# powerful: 6
-# as: 5
-# in: 5
-# learn: 5
-# with: 5
-# computer: 4
-# features: 4
-# for: 4
-# is: 4
-# on: 4
-# tkinter: 4
-# tool: 4
-# typing: 4
-# ubuntu: 4
-# use: 4
-# various: 4
-# version: 4
-# very: 4
-# want: 4
-# we: 4
-# web: 4
-# were: 4
-# while: 4
-# will: 4
-# work: 4
-# write: 4
-# basic: 3
+# programming: 0000
+# the: 0000
+# book: 0000
+# to: 000
+# and: 00
+# language: 000
+# powerful: 000
+# as: 0000
 #...
-# specific: 1
-# specifically: 1
-# sqlite: 1
-# start: 1
-# starts: 1
-# sqlite: 1
-# start: 1
-# starts: 1
-# sqlite: 1
-# start: 1
-# sqlite: 1
-# sqlite: 1
-# start: 1
-# sqlite: 1
-# sqlite: 1
-# start: 1
-# starts: 1
+# start: 000
+# starts: 000
 
-# 가장 많이 나온 단어: 'programming' (총 13회)
-# 전체 단어 중 가장 많이 나온 단어가 차지하는 비중
-# 단어 개수 중 가장 많이 나온 단어가 차지하는 비중
-
+# 가장 많이 나온 단어: '단어' (총 00회)
+# 전체 단어 중 비중: 3.44%
+# 단어 종류 중 비중: 0.56%
+# 전체 단어 수: 000개
+# 고유 단어 수: 000개
 
 
 
